@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: desafio_chapterIII_nodejs
+  annotations:
+    github.com/project-slug: padupe/desafio_chapterIII_nodejs
+spec:
+  type: openapi
+  lifecycle: production
+  owner: squad-sre-architecture-carpentry
