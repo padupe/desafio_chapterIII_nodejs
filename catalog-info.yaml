@@ -5,6 +5,6 @@ metadata:
   annotations:
     github.com/project-slug: padupe/desafio_chapterIII_nodejs
 spec:
-  type: other
-  lifecycle: unknown
+  type: openapi
+  lifecycle: production
   owner: squad-sre-architecture-carpentry
